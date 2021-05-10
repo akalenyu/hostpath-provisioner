@@ -15,7 +15,7 @@
 #limitations under the License.
 
 # the kubevirtci commit hash to vendor from
-kubevirtci_git_hash=6d367f9294fac944eee6a74e96e90770d15057a7
+kubevirtci_git_hash=1a5309cf6b6fee27f33d120feb6547b5f23d321c
 
 # remove previous cluster-up dir entirely before vendoring
 rm -rf cluster-up
